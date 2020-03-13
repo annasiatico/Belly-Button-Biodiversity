@@ -66,7 +66,7 @@ let layout ={
   title:"<b> Bubble Chart </b>",
   xaxis: {title: 'OTU ID'},
   yaxis: {title: 'Sample Value'},
-  width:800,
+  width:500,
   //set transparent color
   plot_bgcolor: 'rgba(0, 0, 0, 0)',
   paper_bgcolor: 'rgba(0, 0, 0, 0)',
