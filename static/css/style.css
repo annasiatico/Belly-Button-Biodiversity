@@ -1,0 +1,10 @@
+.jumbotron{
+    min-height: 250px;
+    width: 100%;
+    background-attachment: fixed;
+	background-size: cover;
+}
+
+.jumbotron-text h1{
+	font-family: "Courier New";
+}
